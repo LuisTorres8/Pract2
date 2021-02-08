@@ -123,3 +123,18 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 .closebtn:hover {
   color: black;
 }
+
+
+form{
+	width:500px;
+	padding:20px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+}
+
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
